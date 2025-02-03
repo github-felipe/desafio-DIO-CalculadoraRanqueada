@@ -20,8 +20,3 @@ depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve s
 |Entre 81 e 90|Diamante
 |Entre 91 e 100|Lendário
 |Maior ou igual a 101|Imortal
-
-## Saída
-
-Ao final deve se exibir uma mensagem:
-"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
